@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-int age=55;
-=======
+
+int age=50;
+
 
 int age=99;
 
 int age=6000;
 
->>>>>>> 27a932ca86a5a441251d7e4947d4fdf0cd5fd7e7
+
 if(age>3){
 print("Git")
 }
