@@ -1,7 +1,7 @@
 
-int age=29;
+int age=99;
 
-int age=66;
+int age=6000;
 
 if(age>3){
 print("Git")
